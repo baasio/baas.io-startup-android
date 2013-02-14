@@ -56,7 +56,7 @@
                 <!-- Receives the registration id. -->
                 <action android:name="com.google.android.c2dm.intent.REGISTRATION" />
 
-                <category android:name="com.kth.baasio.sample" />
+                <category android:name="com.kth.baasio.startup" />
             </intent-filter>
         </receiver>
 
